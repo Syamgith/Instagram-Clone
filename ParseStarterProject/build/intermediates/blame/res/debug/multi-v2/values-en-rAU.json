@@ -1,83 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zappycode/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
-            "map": [
-                {
-                    "source": "/Users/zappycode/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/e97e61b1fde5d06b7274bc7aea65f4ad/res/values-en-rAU/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "292",
-                        "endColumns": "103",
-                        "endOffsets": "391"
-                    },
-                    "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3210",
-                        "endColumns": "103",
-                        "endOffsets": "3309"
-                    }
-                },
-                {
-                    "source": "/Users/zappycode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/a474e9f442352211d159b58d9054580e/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969",
-                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
-                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2065"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,32",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,3109",
-                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
-                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,3205"
-                    }
-                },
-                {
-                    "source": "/Users/zappycode/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/cf21fdf1286cd0d28b7288e2b0a16922/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "282,387,501,606,711,831,927,1021,1140,1242,1328",
-                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
-                        "endOffsets": "382,496,601,706,826,922,1016,1135,1237,1323,1417"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1969,2074,2188,2293,2398,2518,2614,2708,2827,2929,3015",
-                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
-                        "endOffsets": "2069,2183,2288,2393,2513,2609,2703,2822,2924,3010,3104"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/834ed55d57c9eab32b0b21ad93dc5493/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969",
-                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
-                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2065"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,32",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,3109",
-                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
-                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,3205"
-                    }
-                },
-                {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/30d51dd65ff8306244bd1e4f3e219fef/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/32e592563ea3562cb7e617325fae442e/mediarouter-v7-23.0.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -94,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/17bb58e350b7cd98010d2c7ab0e5d93f/res/values-en-rAU/values.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/469d6b5e8daec4a57e8453083bbc7fd5/play-services-wallet-9.4.0/res/values-en-rAU/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -108,6 +35,23 @@
                         "startOffsets": "3210",
                         "endColumns": "103",
                         "endOffsets": "3309"
+                    }
+                },
+                {
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/1f296fe5859ce7068cb0c4898e0e3c40/appcompat-v7-23.4.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2065"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,3109",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,3205"
                     }
                 }
             ]

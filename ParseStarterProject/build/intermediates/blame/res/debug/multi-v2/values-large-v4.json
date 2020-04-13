@@ -4,22 +4,7 @@
             "outputFile": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/834ed55d57c9eab32b0b21ad93dc5493/res/values-large-v4/values-large-v4.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,117,189,248,319,390,460,530,598,666,730,785,889",
-                        "endColumns": "61,71,58,70,70,69,69,67,67,63,54,103,115",
-                        "endOffsets": "112,184,243,314,385,455,525,593,661,725,780,884,1000"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/zappycode/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
-            "map": [
-                {
-                    "source": "/Users/zappycode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/a474e9f442352211d159b58d9054580e/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/1f296fe5859ce7068cb0c4898e0e3c40/appcompat-v7-23.4.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
