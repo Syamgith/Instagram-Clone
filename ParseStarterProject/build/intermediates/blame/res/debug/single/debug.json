@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_feed.xml.flat",
+        "source": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
+    },
+    {
         "merged": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_main.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu_share_menu.xml.flat",
+        "source": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/share_menu.xml"
     },
     {
         "merged": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",

@@ -129,7 +129,8 @@ public class MainActivity extends AppCompatActivity implements View.OnKeyListene
 
       }
     });
-    if (ParseUser.getCurrentUser() != null) {
+
+    if (ParseUser.getCurrentUser().getUsername() != null) {
       showUserList();
     }
 
