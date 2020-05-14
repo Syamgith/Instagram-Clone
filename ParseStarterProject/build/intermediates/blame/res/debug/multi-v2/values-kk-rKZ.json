@@ -4,24 +4,7 @@
             "outputFile": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml",
             "map": [
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/32e592563ea3562cb7e617325fae442e/mediarouter-v7-23.0.0/res/values-kk-rKZ/values-kk-rKZ.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "282,396,509,613,715,840,938,1034,1155,1268,1352",
-                        "endColumns": "113,112,103,101,124,97,95,120,112,83,96",
-                        "endOffsets": "391,504,608,710,835,933,1029,1150,1263,1347,1444"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1999,2113,2226,2330,2432,2557,2655,2751,2872,2985,3069",
-                        "endColumns": "113,112,103,101,124,97,95,120,112,83,96",
-                        "endOffsets": "2108,2221,2325,2427,2552,2650,2746,2867,2980,3064,3161"
-                    }
-                },
-                {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/1f296fe5859ce7068cb0c4898e0e3c40/appcompat-v7-23.4.0/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/942b299217cdf380da8745c6c08d1a37/appcompat-v7-23.4.0/res/values-kk-rKZ/values-kk-rKZ.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "55,167,275,398,501,611,696,802,921,1002,1082,1163,1266,1371,1469,1576,1685,1785,1900,3166",
                         "endColumns": "111,107,122,102,109,84,105,118,80,79,80,102,104,97,106,108,99,114,98,100",
                         "endOffsets": "162,270,393,496,606,691,797,916,997,1077,1158,1261,1366,1464,1571,1680,1780,1895,1994,3262"
+                    }
+                },
+                {
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/6d63fb055c53f9b8465a3aa8c01b8727/mediarouter-v7-23.0.0/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,396,509,613,715,840,938,1034,1155,1268,1352",
+                        "endColumns": "113,112,103,101,124,97,95,120,112,83,96",
+                        "endOffsets": "391,504,608,710,835,933,1029,1150,1263,1347,1444"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1999,2113,2226,2330,2432,2557,2655,2751,2872,2985,3069",
+                        "endColumns": "113,112,103,101,124,97,95,120,112,83,96",
+                        "endOffsets": "2108,2221,2325,2427,2552,2650,2746,2867,2980,3064,3161"
                     }
                 }
             ]

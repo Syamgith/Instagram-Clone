@@ -4,7 +4,7 @@
             "outputFile": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/469d6b5e8daec4a57e8453083bbc7fd5/play-services-wallet-9.4.0/res/values-en-rSG/values.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/d40e04006fdd287e810cb649309e103a/play-services-wallet-9.4.0/res/values-en-rSG/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

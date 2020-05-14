@@ -4,7 +4,7 @@
             "outputFile": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml",
             "map": [
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/32e592563ea3562cb7e617325fae442e/mediarouter-v7-23.0.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/6d63fb055c53f9b8465a3aa8c01b8727/mediarouter-v7-23.0.0/res/values-mn-rMN/values-mn-rMN.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/1f296fe5859ce7068cb0c4898e0e3c40/appcompat-v7-23.4.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/942b299217cdf380da8745c6c08d1a37/appcompat-v7-23.4.0/res/values-mn-rMN/values-mn-rMN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

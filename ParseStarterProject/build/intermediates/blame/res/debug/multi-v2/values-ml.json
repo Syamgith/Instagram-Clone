@@ -4,7 +4,7 @@
             "outputFile": "/Users/syamgith/Downloads/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
             "map": [
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/76fc0d34598a1f72d8dca9af23d7db1a/play-services-base-9.4.0/res/values-ml/values.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/res/values-ml/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,41 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/469d6b5e8daec4a57e8453083bbc7fd5/play-services-wallet-9.4.0/res/values-ml/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "288",
-                        "endColumns": "106",
-                        "endOffsets": "390"
-                    },
-                    "to": {
-                        "startLines": "58",
-                        "startColumns": "4",
-                        "startOffsets": "7210",
-                        "endColumns": "106",
-                        "endOffsets": "7312"
-                    }
-                },
-                {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/ac98d9a5450de6ef1026b17413eddc58/play-services-places-9.4.0/res/values-ml/values.xml",
-                    "from": {
-                        "startLines": "4,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "281,393",
-                        "endColumns": "111,95",
-                        "endOffsets": "388,484"
-                    },
-                    "to": {
-                        "startLines": "56,57",
-                        "startColumns": "4,4",
-                        "startOffsets": "7002,7114",
-                        "endColumns": "111,95",
-                        "endOffsets": "7109,7205"
-                    }
-                },
-                {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/10d38e56bd3313e6d21b5583cfb1d616/play-services-basement-9.4.0/res/values-ml/values.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/res/values-ml/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -72,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/8e8aeb4d635c3ba7b77088f3fb8de69e/play-services-cast-framework-9.4.0/res/values-ml/values.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/34d08cfae750c7a0b3b7db8624429441/play-services-cast-framework-9.4.0/res/values-ml/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -89,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/1371c20c3d6defa8ab76f6d70cb9b66a/play-services-cast-9.4.0/res/values-ml/values.xml",
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/4e9aa10a609a28313a47e999503668d9/play-services-cast-9.4.0/res/values-ml/values.xml",
                     "from": {
                         "startLines": "4,5,6",
                         "startColumns": "4,4,4",
@@ -103,6 +69,40 @@
                         "startOffsets": "1221,1374,1531",
                         "endColumns": "152,156,100",
                         "endOffsets": "1369,1526,1627"
+                    }
+                },
+                {
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/d40e04006fdd287e810cb649309e103a/play-services-wallet-9.4.0/res/values-ml/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endColumns": "106",
+                        "endOffsets": "390"
+                    },
+                    "to": {
+                        "startLines": "58",
+                        "startColumns": "4",
+                        "startOffsets": "7210",
+                        "endColumns": "106",
+                        "endOffsets": "7312"
+                    }
+                },
+                {
+                    "source": "/Users/syamgith/.gradle/caches/transforms-2/files-2.1/c19f34e2583efb77bd30068106edd8be/play-services-places-9.4.0/res/values-ml/values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "281,393",
+                        "endColumns": "111,95",
+                        "endOffsets": "388,484"
+                    },
+                    "to": {
+                        "startLines": "56,57",
+                        "startColumns": "4,4",
+                        "startOffsets": "7002,7114",
+                        "endColumns": "111,95",
+                        "endOffsets": "7109,7205"
                     }
                 }
             ]
